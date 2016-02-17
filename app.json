@@ -1,0 +1,22 @@
+{
+   "repoName" : "iotapp-smart-stove-top",
+   "description" : "This smart stove top application has a number of useful features designed to help you monitor the temperature of the food you are cooking on your legacy stove top. Set the target temperature for a pot on your range top via a web page served directly from Intel® Edison, using your mobile phone. When the target temperature is reached, the speaker issues an audible notification. If an open flame from a pot boiling over is detected, alarm goes off. Optionally, all data can also be stored using the Intel IoT Example Datastore running in your own Microsoft* Azure* account.",
+   "title" : "Smart Stove Top",
+   "template" : true,
+   "relName" : "4.0.0",
+   "tooltip" : "This smart stove top application has a number of useful features designed to help you monitor the temperature of the food you are cooking on your legacy stove top. Set the target temperature for a pot on your range top via a web page served directly from Intel® Edison, using your mobile phone. When the target temperature is reached, the speaker issues an audible notification. If an open flame from a pot boiling over is detected, alarm goes off. Optionally, all data can also be stored using the Intel IoT Example Datastore running in your own Microsoft* Azure* account.",
+   "section" : "iot-templates",
+   "group" : "other",
+   "visible" : true,
+   "projectTypeName" : "com.intel.xdk.projecttype.iotapp",
+   "articleUrl" : "https://software.intel.com/en-us/articles/smart-stove-top",
+   "highlights" : [
+      ""
+   ],
+   "screenshotUrl" : "",
+   "appName" : "demo.smartstovetop",
+   "keywords" : [
+      ""
+   ],
+   "iconUrl" : ""
+}
